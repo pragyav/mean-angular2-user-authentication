@@ -15,3 +15,5 @@ Open a command line window and navigate to the "/client" folder below the projec
 Run npm install to install all required npm packages that are defined in the package.json file
  
 Run npm start to start the client, a browser window should automatically open to the application at http://localhost:3000
+
+![register](https://user-images.githubusercontent.com/2385925/31490747-af1077ec-af4d-11e7-9a82-f893f8dffd8b.png)
