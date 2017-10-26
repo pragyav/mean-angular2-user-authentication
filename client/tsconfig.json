@@ -3,7 +3,7 @@
         "target": "es5",
         "module": "commonjs",
         "moduleResolution": "node",
-        "sourceMap": true,
+        "sourceMap": false,
         "emitDecoratorMetadata": true,
         "experimentalDecorators": true,
         "removeComments": false,
@@ -13,7 +13,7 @@
             "./node_modules/@types/"
         ]
     },
-    "compileOnSave": true,
+    "compileOnSave": false,
     "exclude": [
         "node_modules/*"
     ]
